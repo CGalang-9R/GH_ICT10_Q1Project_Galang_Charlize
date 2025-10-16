@@ -1,0 +1,165 @@
+* {
+	margin:0;
+	padding:0;
+}
+
+body {
+	background-image:url(https://i.pinimg.com/564x/27/20/ec/2720ec65a9eb245eacb43f001fcc1f29.jpg);
+	background-size: 100%;
+    font-family: "Fredericka the Great", serif;
+}
+
+h1 {
+    text-shadow: 1px 1px 1px white, 0 0 25px white, 0 0 5px white;
+}
+
+h4 {
+    text-shadow: 1px 1px 1px white, 0 0 25px white, 0 0 5px white;
+}
+
+.navbar {
+    background-color:#162E4A;
+    color: #FFE7C2;
+}
+
+a {
+    color: #FFE7C2;
+}
+
+li a:hover:not(.active) {
+	background-color: #d99567;
+}
+
+.containerHeader {
+    border-radius: 10px;
+    text-align: center;
+    padding: 30px;
+    margin: 60px;
+    color: #162E4A;
+    background-image:url(https://i.pinimg.com/564x/db/a1/38/dba138576de71a56ffb37cd0e20f9dab.jpg);
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.27);
+}
+
+h2 {
+    text-align: center;
+}
+
+.btn {
+	margin: 5px;
+}
+
+button {
+    text-align: center;
+    background-color: #162E4A;
+    border-radius: 10px;
+    display: block;
+    margin: 0 auto;
+}
+
+.containerF {
+    background-color: rgba(194, 109, 143, 0.75);
+    padding: 15px;
+    margin: 20px;
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.27);
+    color: #FFE7C2;
+    border-radius: 10px;
+}
+
+.containerI {
+    background-color: rgba(194, 109, 143, 0.75);
+    padding: 15px;
+    margin: 60px;
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.27);
+    color: #FFE7C2;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.containerItems {
+    border-radius: 10px;
+    background-color: rgba(194, 109, 143, 0.75);
+    padding: 15px;
+    margin: 60px;
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.27);
+    color: #FFE7C2;
+}
+
+.containerD {
+    border-radius: 10px;
+    text-align: center;
+    background-color: #162E4A;
+    color: #FFE7C2;
+    padding: 15px;
+    margin: 60px;
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.27);
+}
+
+
+.containerO {
+    border-radius: 10px;
+    text-align: center;
+    margin: 60px;
+    color: #162E4A;
+    background-color: #FFE7C2;
+    white-space: pre-wrap;
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.27);
+}
+
+.containerR {
+    background-color: rgba(194, 109, 143, 0.75);
+    padding: 15px;
+    margin: 20px;
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.27);
+    color: #ffe7c2;
+    border-radius: 10px;
+}
+
+details {
+    text-align: center;
+}
+.containerC {
+    background-color: rgba(194, 109, 143, 0.75);
+    padding: 15px;
+    margin: 20px;
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.27);
+    color: #FFE7C2;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.card {
+	border-radius: 10px;
+    text-align: center;
+    background-color: #162E4A;
+    color: #FFE7C2;
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.27);
+    padding: 20px;
+}
+
+.column {
+  display: inline;
+  width: 20%;
+  padding: 10px;
+}
+
+.row {
+  justify-content: center;
+}
+
+.footer {
+    text-align: center;
+    background-color:#162E4A;
+    color: #FFE7C2;
+    padding: 20px;
+    /* position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%; */
+}
+
+.footer {
+    text-align: center;
+    background-color:#162E4A;
+    color: #FFE7C2;
+    padding: 20px;
+}

@@ -1,0 +1,38 @@
+.containerC {
+    background-color: rgba(194, 109, 143, 0.75);
+    padding: 15px;
+    margin: 20px;
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.27);
+    color: #FFE7C2;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.card {
+	border-radius: 10px;
+    text-align: center;
+    background-color: #162E4A;
+    color: #FFE7C2;
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.27);
+}
+
+.column {
+  display: inline;
+  width: 20%;
+  padding: 10px;
+}
+
+.row {
+  justify-content: center;
+}
+
+.footer {
+    text-align: center;
+    background-color:#162E4A;
+    color: #FFE7C2;
+    padding: 20px;
+    /* position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%; */
+}
